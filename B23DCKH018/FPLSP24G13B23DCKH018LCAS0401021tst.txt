@@ -1,4 +1,0 @@
-INPUT:
-5
-OUTPUT:
-5 5
