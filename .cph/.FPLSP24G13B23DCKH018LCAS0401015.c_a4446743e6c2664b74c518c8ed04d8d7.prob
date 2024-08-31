@@ -1,0 +1,1 @@
+{"name":"Local: FPLSP24G13B23DCKH018LCAS0401015","url":"d:\\CODEPTIT by dean\\FPLSP24G13B23DCKH018LCAS0401015.c","tests":[{"id":1712797251580,"input":"3 3 3\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODEPTIT by dean\\FPLSP24G13B23DCKH018LCAS0401015.c","group":"local","local":true}

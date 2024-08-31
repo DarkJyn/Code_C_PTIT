@@ -1,0 +1,1 @@
+{"name":"Local: C04008","url":"d:\\CODEPTIT by dean\\C04008.c","tests":[{"id":1711724135498,"input":"1\n\n4 3 1\n\n5 3 6 7\n\n2 9 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODEPTIT by dean\\C04008.c","group":"local","local":true}
